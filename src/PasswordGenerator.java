@@ -61,7 +61,6 @@ public class PasswordGenerator {
 
         String password = generatePassword(length);
         System.out.println("Generated password: " + password);
-
         scanner.close();
     }
 }
