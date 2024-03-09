@@ -5,7 +5,7 @@ This Java program generates a random password based on the specified length. It 
 Usage:
 Compile the `PasswordGenerator.java` file:
 ```bash
-javac PasswordGenerator.java
+javac PasswordGenerator.java ```
 
 Run the compiled file:  java PasswordGenerator
 
